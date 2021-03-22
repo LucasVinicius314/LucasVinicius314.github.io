@@ -1,4 +1,4 @@
-const frequency = 1 / 30
+const frequency = 1000 / 15
 
 let activated = false
 let elementsBorder, elementsTitle, elementHeader, elementMeme, elementButton
